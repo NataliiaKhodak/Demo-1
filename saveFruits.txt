@@ -1,0 +1,5 @@
+apple red
+banana yellow
+lemon yellow
+mango1 red
+orange orange
